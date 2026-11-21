@@ -1,0 +1,43 @@
+{
+  "item": {
+    "id": "com.wangmoxuan.deviceinfo",
+    "restype": "quick_app",
+    "name": "设备信息",
+    "description": "你还在为手环丢了而担心吗？\n \n有了「设备信息」之后，手环就相当于随身带着一张名片。手机端同步姓名和联系方式，捡到手环的人打开应用后，就能直接看到设备主人；退出应用需要密码，密码可以在手机端设置。\n \n资料只保存在手环本机。手环丢了不用慌，打开应用就能找到主人。",
+    "preview": [
+      "media/1000040041.png",
+      "media/1000040047.png",
+      "media/1000040046.png",
+      "media/1000040045.png",
+      "media/1000040051.png"
+    ],
+    "icon": "media/1000040040.png",
+    "cover": "media/1000040041.png",
+    "author": [
+      {
+        "name": "2939605019",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "同步器下载",
+      "url": "https://tlx.wangmoxuan.eu.cc/s/eyJrIjoic2hhcmUiLCJpZCI6ImZtd3E4MmJpeW1lcTNkMyIsImV4cCI6NDEwMjQxNjAwMDAwMCwiY2giOiIifQ.Yp7RVpP9GVQb8dl3aJSWyTQoPh0jmbhh454v1q0VjJw",
+      "icon": "cloud-arrow-down"
+    }
+  ],
+  "downloads": {
+    "xmb11": {
+      "version": "2.0.1",
+      "file_name": "downloads/设备信息_v2.0.1_release(1).rpk",
+      "versionCode": 12
+    },
+    "xmb11nfc": {
+      "version": "2.0.1",
+      "file_name": "downloads/设备信息_v2.0.1_release(1).rpk",
+      "versionCode": 12
+    }
+  },
+  "ext": {}
+}
